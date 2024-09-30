@@ -15,7 +15,7 @@ sudo ./hostapd 6ghz_eht.cfg
 
 Quick start:
 1. Add Wi-Fi 7 access point configuration to /etc/wpa_supplicant/wpa_supplicant.conf config file
-2. Download experimental versio of wpa_supplicant which supports Wi-Fi 7
+2. Download experimental version of wpa_supplicant which supports Wi-Fi 7
 ```bash
 wget https://github.com/WLAN-Pi/experimental/raw/main/wpa_supplicant_11be.zip
 unzip wpa_supplicant_11be.zip
