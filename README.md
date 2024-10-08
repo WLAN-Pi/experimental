@@ -18,7 +18,7 @@ Quick start:
 2. Install 6.11 Linux kernel and experimental version of wpa_supplicant with 802.11be support enabled
 ```bash
 wget https://github.com/WLAN-Pi/experimental/raw/main/wlanpi-kernel_1.20240916-1_arm64.deb.zip
-unzip unzip wlanpi-kernel_1.20240916-1_arm64.deb.zip
+unzip wlanpi-kernel_1.20240916-1_arm64.deb.zip
 sudo apt install ./wlanpi-kernel_1.20240916-1_arm64.deb
 sudo reboot
 wget https://github.com/WLAN-Pi/experimental/raw/main/wpa_supplicant_11be.zip
